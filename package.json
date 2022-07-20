@@ -15,5 +15,6 @@
     "eslint-config-custom": "*",
     "prettier": "^2.5.1",
     "turbo": "latest"
-  }
+  },
+  "packageManager": "npm@8.5.5"
 }
